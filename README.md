@@ -1,6 +1,6 @@
 Welcome to My GitHub Profile! 👋
 
-Hey there! I'm [Your Name], a student at JSS Academy of Technical Education, Bengaluru. I'm passionate about programming and 
+Hey there! I'm Rohan, a student at JSS Academy of Technical Education, Bengaluru. I'm passionate about programming and 
 continuously strive to improve my skills.
 
 ⚪️ ABOUT ME : 
