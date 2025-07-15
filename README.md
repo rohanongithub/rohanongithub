@@ -14,6 +14,6 @@
 
 ---
 ### 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{rohanongithub}/count.svg)
+![](https://komarev.com/ghpvc/?username=rohanongithub)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
